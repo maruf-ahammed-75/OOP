@@ -1,0 +1,21 @@
+1.class
+2.object
+3.inheritance
+4.encapsulation
+5.abstraction
+6.polymorphism
+
+
+
+public → accessible from anywhere.
+protected → accessible from the class itself and its derived (child) classes.
+private → accessible only from inside the class.
+
+
+consturctor -> special type of function that use to initilize the object     
+            -> consturctor autometicly call hoy
+
+
+
+Overloading ->  Overloading means using the same name for more than one function,
+                but with differentparameters. 
