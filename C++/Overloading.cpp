@@ -20,15 +20,11 @@ class Student {
         void display(){
             cout<<id<<" "<<gpa<<endl;
         }
-        
 };
 int main(){
     Student Maruf(144,3.75),ayhan(101,3.85),nayeem;
     Maruf.display();
     ayhan.display();
 
-   
-
-    
     return 0;
 }
