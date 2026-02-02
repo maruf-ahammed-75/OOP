@@ -1,4 +1,4 @@
-public class static_variable {
+public class Static_variable {
     static int count =0 ;
     static_variable(){
         count++;

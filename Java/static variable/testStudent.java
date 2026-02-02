@@ -9,10 +9,11 @@ public class testStudent {
         // alif.display();
 
 
-        static_variable obj1 = new static_variable();
-        static_variable obj2 = new static_variable();
-        static_variable obj3 = new static_variable();
-        obj2.display();
+        Static_variable obj1 = new Static_variable();
+        Static_variable obj2 = new Static_variable();
+        Static_variable obj3 = new Static_variable();
+        obj1.display();
+
         
     }
 }
