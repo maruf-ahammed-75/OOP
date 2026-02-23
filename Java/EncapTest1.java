@@ -5,7 +5,8 @@ public class EncapTest1 {
 
         ob1.setage(25);
         ob1.setname("Maruf");
-
+        System.out.println("name "+ob1.getname());
+        System.out.println("age "+ob1.getage());
         ob1.display();
     }
 }
